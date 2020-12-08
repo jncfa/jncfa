@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 **I'm José Faria**, 
-Mastering in Engineering Physics with interest in Data Science, IoT and Robotics
-
+Mastering in Engineering Physics with interest in IoT, Robotics and Data Science 
 **Currently working on**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula">
