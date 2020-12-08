@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-### I'm José Faria**, 
+### I'm José Faria, 
 
 Mastering in Engineering Physics with a special interest in Internet of Things, Robotics and Automation.
 
+<!--
 ### Currently working on
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula">
 </p>
+-->
 
 <!--
 **jncfa/jncfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
