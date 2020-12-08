@@ -2,7 +2,7 @@
 
 **I'm José Faria**, 
 
-Mastering in Engineering Physics with interest in IoT, Robotics and Data Science 
+Mastering in Engineering Physics with a special interest for IoT, Robotics and Automation.
 
 **Currently working on**
 <p align="center">
