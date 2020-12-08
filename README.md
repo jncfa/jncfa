@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-**I'm José Faria**, 
+### I'm José Faria**, 
 
 Mastering in Engineering Physics with a special interest for IoT, Robotics and Automation.
 
-**Currently working on**
+### Currently working on
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula">
