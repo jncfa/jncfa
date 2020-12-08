@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![SI Projects Stats](https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula)
+![SI Projects Stats](https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula) ![SI Projects Stats](https://github-readme-stats.vercel.app/api/pin/?username=jncfa&repo=SI-Projects&show_icons=true&theme=dracula)
