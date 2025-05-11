@@ -2,7 +2,7 @@
 
 ### I'm José Faria, 
 
-Master in Engineering Physics with a special interest in Internet of Things, Robotics and Automation.
+Master in Physics Engineering with a special interest in Internet of Things, Robotics and Automation.
 
 <!--
 ### Currently working on
